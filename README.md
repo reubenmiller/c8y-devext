@@ -1,6 +1,6 @@
 # c8y-devext
 
-:warning: This is just an example project only! Please fork it and modify as required :warning:
+:warning: This is just an example project only Please fork it and modify as required
 
 go-c8y-cli extension to managed software on a device. This uses the newer [Software Management v2 microservice](https://cumulocity.com/guides/reference/device-management-library/#adding-software-packages) API in Cumulocity IoT.
 
